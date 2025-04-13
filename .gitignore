@@ -3,3 +3,5 @@
 *.obj
 *.ilk
 *.exe
+
+compile_commands.json
